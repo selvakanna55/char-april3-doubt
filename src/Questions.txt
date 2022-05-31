@@ -1,0 +1,8 @@
+print number 10 5 times
+print 1 to N (try in backtrack as well)
+print N to 1 (try in backtrack as well)
+sum of N numbers
+reverse the array using recursion
+check string is palindrome or not using recursion
+fibonici
+n!
